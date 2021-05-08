@@ -66,6 +66,8 @@ Hay tres modelos de implementación para la informática en la nube: *nube públ
 - Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
 
 > :bulb: Aprende más sobre el **Cloud computing** en https://youtu.be/nZ8e8R_Wsio 
+> [![](http://img.youtube.com/vi/nZ8e8R_Wsio/0.jpg)](http://www.youtube.com/watch?v=nZ8e8R_Wsio "Cloud Computing")
+
 
 
 ## Regiones de Azure
@@ -86,7 +88,7 @@ Azure cuenta con más regiones globales que cualquier otro proveedor de nube. Es
 
 ---
 
-###**Referencias:**
+**Referencias:**
 
 *Randall-Knapp. (2021). Describe the benefits of cloud computing - Learn. Microsoft.com. https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing*
 
