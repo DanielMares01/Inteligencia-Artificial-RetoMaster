@@ -86,7 +86,7 @@ Azure cuenta con más regiones globales que cualquier otro proveedor de nube. Es
 
 ---
 
-##**Referencias:**
+###**Referencias:**
 
 *Randall-Knapp. (2021). Describe the benefits of cloud computing - Learn. Microsoft.com. https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing*
 
